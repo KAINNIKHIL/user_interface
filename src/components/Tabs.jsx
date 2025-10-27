@@ -22,7 +22,7 @@ I was born and raised in Albany, NY& have been living in Santa Carla for the pas
               <img src= {image}></img>
       </div>
             <div className="flex-1 flex flex-col">
-      <div className="flex space-x-2 mb-4 bg-[#171717] rounded-[16px] p-1 w-[195] h-[49]">
+      <div className="flex space-x-2 mb-4 bg-[#171717] rounded-[16px] p-1 ">
         {tabs.map(tab => (
           <button
             key={tab}
